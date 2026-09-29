@@ -24,7 +24,7 @@
 
 -Then in python you should have a module named spellchecker.
 
--To install the module type - pip install pyspellchecker.
+-To install the module type - (pip install pyspellchecker) in cmd or Windows Powershell.
 
 -Then run the program
 
