@@ -26,4 +26,4 @@
 
 -Automatic Correction : gives suggestion and automatically corrects it.
 
--Exit option : allows users to exit the program whenever requird.
+-Exit option : allows users to exit the program whenever required.
