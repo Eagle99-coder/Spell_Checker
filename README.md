@@ -26,7 +26,7 @@
 
 -To install the module type - (pip install pyspellchecker) in cmd or Windows Powershell.
 
--Then run the program
+-Then run the program.
 
 #Instructions for testing:
 
