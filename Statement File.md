@@ -6,19 +6,19 @@
 
 #Scope of the project:
 
--Error Detection 
+-Error Detection.
 
--Correction suggestions
+-Correction suggestions.
 
--Exit the program anytime
+-Exit the program anytime.
 
-#Target users
+#Target users:
 
 -Students who are learning python programming.
 
 -Who are facing difficulty in reading dictionaries.
 
--Users who want their word or sentence to be rectified instantly
+-Users who want their word or sentence to be rectified instantly.
 
 #High-level features:
 
