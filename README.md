@@ -35,4 +35,14 @@
 -To exit the program just type 'exit'.
 
 ## Screenshots:
+
+Input:
 <img width="1907" height="1021" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/e503e505-35de-4fd9-a866-e0a32a49bfc3" />
+
+Output:
+<img width="1913" height="1019" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/f8f1d5b4-0e28-415f-8a69-8c443dad3041" />
+
+Exit:
+<img width="1906" height="1020" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/34078360-9128-41fe-acdd-df07d9634c2b" />
+
+
