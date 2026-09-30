@@ -33,3 +33,6 @@
 -You can type any incorrect or misspelled word in the terminal when the code is running and press enter to get the result (which is the correct word).
 
 -To exit the program just type 'exit'.
+
+## Screenshots:
+<img width="1907" height="1021" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/e503e505-35de-4fd9-a866-e0a32a49bfc3" />
